@@ -1,6 +1,6 @@
 {
   "name": "angular-fitvids",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Makes your videos fluid-width.",
   "main": "angular-fitvids.js",
   "repository": {
