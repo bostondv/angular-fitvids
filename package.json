@@ -2,5 +2,22 @@
   "name": "angular-fitvids",
   "version": "0.1.0",
   "description": "Makes your videos fluid-width.",
-  "main": "angular-fitvids.js"
+  "main": "angular-fitvids.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bostondv/angular-fitvids.git"
+  },
+  "author": {
+    "name": "Boston Dell-Vandenberg",
+    "email": "bostondv@gmail.com"
+  },
+  "keywords": [
+    "angular",
+    "fitvids"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bostondv/angular-fitvids/issues"
+  },
+  "homepage": "https://github.com/bostondv/angular-fitvids"
 }
